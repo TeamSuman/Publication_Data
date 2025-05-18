@@ -1,0 +1,642 @@
+,Solute,Solvent,SoluteSMILES,SolventSMILES,DeltaGsolv
+0, methyl hexanoate,oxidane, CCCCCC(=O)OC,O, -2.49
+1, butan-1-ol,oxidane, CCCCO,O, -4.72
+2," 1,2,3,4-tetrachloro-5-(3,4-dichlorophenyl)benzene",oxidane, c1cc(c(cc1c2cc(c(c(c2Cl)Cl)Cl)Cl)Cl)Cl,O, -3.04
+3, cyclohexanamine,oxidane, C1CCC(CC1)N,O, -4.59
+4, phenyl formate,oxidane, c1ccc(cc1)OC=O,O, -3.82
+5, methyl propanoate,oxidane, CCC(=O)OC,O, -2.93
+6," 1,3-dichlorobenzene",oxidane, c1cc(cc(c1)Cl)Cl,O, -0.98
+7, iodoethane,oxidane, CCI,O, -0.74
+8," 2,2,4-trimethylpentane",oxidane, CC(C)CC(C)(C)C,O, 2.89
+9, ethoxyethane,oxidane, CCOCC,O, -1.59
+10," (2R,5R)-2-methyl-5-(1-methylethenyl)-cyclohexanone",oxidane, C[C@@H]1CC[C@H](CC1=O)C(=C)C,O, -3.75
+11, 2-chlorophenol,oxidane, c1ccc(c(c1)O)Cl,O, -4.55
+12, methylsulfanylbenzene,oxidane, CSc1ccccc1,O, -2.73
+13, 1-iodopropane,oxidane, CCCI,O, -0.53
+14, 2-chloropropane,oxidane, CC(C)Cl,O, -0.25
+15, 1-nitropentane,oxidane, CCCCC[N+](=O)[O-],O, -2.82
+16, cycloheptanol,oxidane, C1CCCC(CC1)O,O, -5.48
+17, neopentane,oxidane, CC(C)(C)C,O, 2.51
+18, hexachloroethane,oxidane, C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl,O, -0.64
+19, 1-butoxybutane,oxidane, CCCCOCCCC,O, -0.83
+20, triethylphosphate,oxidane, CCOP(=O)(OCC)OCC,O, -7.50
+21," 1,1,2-trichloroethane",oxidane, C(C(Cl)Cl)Cl,O, -1.99
+22, methyl 4-nitrobenzoate,oxidane, COC(=O)c1ccc(cc1)[N+](=O)[O-],O, -6.88
+23, pebulate,oxidane, CCCCN(CC)C(=O)SCCC,O, -3.64
+24," 3,5-dimethylpyridine",oxidane, Cc1cc(cnc1)C,O, -4.84
+25, pentachloronitrobenzene,oxidane, c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)N(=O)=O,O, -5.22
+26, captan,oxidane, C1C=CC[C@@H]2[C@@H]1C(=O)N(C2=O)SC(Cl)(Cl)Cl,O, -9.01
+27, m-xylene,oxidane, Cc1cccc(c1)C,O, -0.83
+28, 1-isopropyl-4-methyl-benzene,oxidane, Cc1ccc(cc1)C(C)C,O, -0.68
+29," 2,3-dichlorodibenzo-p-dioxin",oxidane, c1ccc2c(c1)Oc3cc(c(cc3O2)Cl)Cl,O, -3.56
+30, nonan-2-one,oxidane, CCCCCCCC(=O)C,O, -2.49
+31, 4-methylpyridine,oxidane, Cc1ccncc1,O, -4.93
+32, flurbiprofen,oxidane, C[C@@H](c1ccc(c(c1)F)c2ccccc2)C(=O)O,O, -8.42
+33, butane-1-thiol,oxidane, CCCCS,O, -0.99
+34," 2,3-dimethylphenol",oxidane, Cc1cccc(c1C)O,O, -6.16
+35, ethyl hexanoate,oxidane, CCCCCC(=O)OCC,O, -2.23
+36, 2-isopropoxypropane,oxidane, CC(C)OC(C)C,O, -0.53
+37, methanol,oxidane, CO,O, -5.10
+38, 2-methylpropan-2-ol,oxidane, CC(C)(C)O,O, -4.47
+39, morpholine,oxidane, C1COCCN1,O, -7.17
+40, but-1-ene,oxidane, CCC=C,O, 1.38
+41, hex-1-yne,oxidane, CCCCC#C,O, 0.29
+42, methylsulfonylmethane,oxidane, CS(=O)(=O)C,O, -10.08
+43, methyl formate,oxidane, COC=O,O, -2.78
+44, ethyl butanoate,oxidane, CCCC(=O)OCC,O, -2.49
+45, octafluorocyclobutane,oxidane, C1(C(C(C1(F)F)(F)F)(F)F)(F)F,O, 3.43
+46, benzamide,oxidane, c1ccc(cc1)C(=O)N,O, -11.00
+47, dibenzo-p-dioxin,oxidane, c1ccc2c(c1)Oc3ccccc3O2,O, -3.15
+48, 4-bromophenol,oxidane, c1cc(ccc1O)Br,O, -5.85
+49, hexanoic acid,oxidane, CCCCCC(=O)O,O, -6.21
+50, diethyl butanedioate,oxidane, CCOC(=O)CCC(=O)OCC,O, -5.71
+51," 2,6-dimethylphenol",oxidane, Cc1cccc(c1O)C,O, -5.26
+52, 1-chloro-2-methyl-benzene,oxidane, Cc1ccccc1Cl,O, -1.14
+53," 3-(dimethoxyphosphinothioylsulfanylmethyl)-1,2,3-benzotriazin-4-one",oxidane, COP(=S)(OC)SCn1c(=O)c2ccccc2nn1,O, -10.03
+54," methyl 2,2-dimethylpropanoate",oxidane, CC(C)(C)C(=O)OC,O, -2.40
+55," 1,2-dibromoethane",oxidane, C(CBr)Br,O, -2.33
+56, ethanethiol,oxidane, CCS,O, -1.14
+57, isopentane,oxidane, CCC(C)C,O, 2.38
+58, 3-methyl-1H-indole,oxidane, Cc1c[nH]c2c1cccc2,O, -5.88
+59, hexanal,oxidane, CCCCCC=O,O, -2.81
+60," 1,1,2-trichloro-1,2,2-trifluoro-ethane",oxidane, C(C(F)(Cl)Cl)(F)(F)Cl,O, 1.77
+61, 4-chlorophenyl)sulfanylmethylsulfanyl-diethoxy-thioxo-$l^{5}-phosphane,oxidane, CCOP(=S)(OCC)SCSc1ccc(cc1)Cl,O, -6.50
+62," 1,2,3,5-tetrachlorobenzene",oxidane, c1c(cc(c(c1Cl)Cl)Cl)Cl,O, -1.62
+63," 1,2-dichloroethane",oxidane, C(CCl)Cl,O, -1.79
+64, 2-phenylethanol,oxidane, c1ccc(cc1)CCO,O, -6.79
+65, propanethiol,oxidane, CCCS,O, -1.10
+66, toluene,oxidane, Cc1ccccc1,O, -0.90
+67, pentan-3-one,oxidane, CCC(=O)CC,O, -3.41
+68, pentan-2-one,oxidane, CCCC(=O)C,O, -3.52
+69," 1,1,1,2-tetrachloroethane",oxidane, C(C(Cl)(Cl)Cl)Cl,O, -1.43
+70, 1-chlorohexane,oxidane, CCCCCCCl,O, 0.00
+71," (2S,3R,4S,5R)-oxane-2,3,4,5-tetrol",oxidane, C1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O,O, -20.52
+72, 2-methylpent-1-ene,oxidane, CCCC(=C)C,O, 1.47
+73, butan-2-ol,oxidane, CC[C@H](C)O,O, -4.62
+74, benzyl bromide,oxidane, c1ccc(cc1)CBr,O, -2.38
+75, methylparathion,oxidane, COP(=S)(OC)Oc1ccc(cc1)[N+](=O)[O-],O, -7.19
+76, n-butane,oxidane, CCCC,O, 2.10
+77, hydrogen sulfide,oxidane, S,O, -0.70
+78, bromacil,oxidane, CC[C@H](C)n1c(=O)c(c([nH]c1=O)C)Br,O, -9.73
+79, [2-benzhydryloxyethyl]-dimethyl-amine,oxidane, CN(C)CCOC(c1ccccc1)c2ccccc2,O, -9.34
+80, nitromethane,oxidane, C[N+](=O)[O-],O, -4.02
+81, N-methylacetamide,oxidane, CC(=O)NC,O, -10.00
+82, acetaldehyde,oxidane, CC=O,O, -3.50
+83, 1-cyclopropylethanone,oxidane, CC(=O)C1CC1,O, -4.61
+84, nonanal,oxidane, CCCCCCCCC=O,O, -2.07
+85, 1-chloropropane,oxidane, CCCCl,O, -0.33
+86, mesitylene,oxidane, Cc1cc(cc(c1)C)C,O, -0.90
+87, biphenyl,oxidane, c1ccc(cc1)c2ccccc2,O, -2.70
+88, ethane,oxidane, CC,O, 1.83
+89," 2-chloro-2-(difluoromethoxy)-1,1,1-trifluoro-ethane",oxidane, [C@@H](C(F)(F)F)(OC(F)F)Cl,O, 0.10
+90, 1-cyclohexylethanone,oxidane, CC(=O)C1CCCCC1,O, -3.90
+91, methylsulfanylethane,oxidane, CCSC,O, -1.50
+92, phenol,oxidane, c1ccc(cc1)O,O, -6.60
+93, propane,oxidane, CCC,O, 2.00
+94, ibuprofen,oxidane, C[C@@H](c1ccc(cc1)CC(C)C)C(=O)O,O, -7.00
+95, ketoprofen,oxidane, C[C@@H](c1cccc(c1)C(=O)c2ccccc2)C(=O)O,O, -10.78
+96, 2-iodopropane,oxidane, CC(C)I,O, -0.46
+97, 4-hydroxybenzonitrile,oxidane, c1cc(ccc1C#N)O,O, -10.17
+98, 2-ethylphenol,oxidane, CCc1ccccc1O,O, -5.66
+99, 3-methylbut-1-ene,oxidane, CC(C)C=C,O, 1.83
+100, formaldehyde,oxidane, C=O,O, -2.75
+101, 1-chloro-pentane,oxidane, CCCCCCl,O, -0.10
+102, sec-butylbenzene,oxidane, CC[C@H](C)c1ccccc1,O, -0.45
+103, decane,oxidane, CCCCCCCCCC,O, 3.16
+104, chloroethane,oxidane, CCCl,O, -0.63
+105, 3-methylpentane,oxidane, CCC(C)CC,O, 2.51
+106, 2-methylpropan-1-ol,oxidane, CC(C)CO,O, -4.50
+107, acenaphthene,oxidane, c1cc2cccc3c2c(c1)CC3,O, -3.15
+108, naproxen,oxidane, C[C@@H](c1ccc2cc(ccc2c1)OC)C(=O)O,O, -10.21
+109, trimethoxymethane,oxidane, COC(OC)OC,O, -4.42
+110, ethyl formate,oxidane, CCOC=O,O, -2.56
+111, methyl paraben,oxidane, COC(=O)c1ccc(cc1)O,O, -9.51
+112, ethanol,oxidane, CCO,O, -5.00
+113," 1-(2-hydroxyethylamino)-9,10-anthraquinone",oxidane, c1ccc2c(c1)C(=O)c3cccc(c3C2=O)NCCO,O, -14.21
+114, pentylcyclopentane,oxidane, CCCCCC1CCCC1,O, 2.55
+115, methyl pentanoate,oxidane, CCCCC(=O)OC,O, -2.56
+116, 3-ethylphenol,oxidane, CCc1cccc(c1)O,O, -6.25
+117, butyl acetate,oxidane, CCCCOC(=O)C,O, -2.64
+118," 3,4-dimethylpyridine",oxidane, Cc1ccncc1C,O, -5.22
+119, heptan-4-one,oxidane, CCCC(=O)CCC,O, -2.92
+120, diethyl propanedioate,oxidane, CCOC(=O)CC(=O)OCC,O, -6.00
+121, ethanamine,oxidane, CCN,O, -4.50
+122, 1-methoxypropane,oxidane, CCCOC,O, -1.66
+123," 1,4-diamino-9,10-anthracenedione",oxidane, c1ccc2c(c1)C(=O)c3c(ccc(c3C2=O)N)N,O, -11.85
+124, benzonitrile,oxidane, c1ccc(cc1)C#N,O, -4.10
+125, 3-methoxyphenol,oxidane, COc1cccc(c1)O,O, -7.66
+126, trichloro(nitro)methane,oxidane, C([N+](=O)[O-])(Cl)(Cl)Cl,O, -1.45
+127, benzyl chloride,oxidane, c1ccc(cc1)CCl,O, -1.93
+128, hexan-2-one,oxidane, CCCCC(=O)C,O, -3.28
+129," 1,2-dichlorobenzene",oxidane, c1ccc(c(c1)Cl)Cl,O, -1.36
+130," 1,1,1,2,2-pentachloroethane",oxidane, C(C(Cl)(Cl)Cl)(Cl)Cl,O, -1.23
+131," 1,1-dichloroethylene",oxidane, C=C(Cl)Cl,O, 0.25
+132, profluralin,oxidane, CCC[N@@](CC1CC1)c2c(cc(cc2[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],O, -2.45
+133, 1-bromoheptane,oxidane, CCCCCCCBr,O, 0.34
+134, dialifor,oxidane, CCOP(=S)(OCC)S[C@@H](CCl)N1C(=O)c2ccccc2C1=O,O, -5.74
+135, 5-Amino-4-chloro-2-phenylpyridazin-3(2H)-one,oxidane, c1ccc(cc1)n2c(=O)c(c(cn2)N)Cl,O, -16.43
+136," 2,2-dimethylpentane",oxidane, CCCC(C)(C)C,O, 2.88
+137, pyrene,oxidane, c1cc2ccc3cccc4c3c2c(c1)cc4,O, -4.52
+138, hexyl acetate,oxidane, CCCCCCOC(=O)C,O, -2.26
+139," 3,3-dimethylpentane",oxidane, CCC(C)(C)CC,O, 2.56
+140," 1,2-dimethoxybenzene",oxidane, COc1ccccc1OC,O, -5.33
+141, 3-nitrooxypropyl nitrate,oxidane, C(CO[N+](=O)[O-])CO[N+](=O)[O-],O, -4.80
+142," N,N-4-trimethylbenzamide",oxidane, Cc1ccc(cc1)C(=O)N(C)C,O, -9.76
+143, 3-hydroxybenzonitrile,oxidane, c1cc(cc(c1)O)C#N,O, -9.65
+144," 1,3,5-trichlorobenzene",oxidane, c1c(cc(cc1Cl)Cl)Cl,O, -0.78
+145, cyclohexane,oxidane, C1CCCCC1,O, 1.23
+146, 2-isobutylpyrazine,oxidane, CC(C)Cc1cnccn1,O, -5.04
+147, nitralin,oxidane, CCCN(CCC)c1c(cc(cc1[N+](=O)[O-])S(=O)(=O)C)[N+](=O)[O-],O, -7.98
+148, 1-pyrrolidin-1-ylethanone,oxidane, CC(=O)N1CCCC1,O, -9.80
+149, 5-iodouracil,oxidane, c1c(c(=O)[nH]c(=O)[nH]1)I,O, -18.72
+150, 4-nitrophenol,oxidane, c1cc(ccc1[N+](=O)[O-])O,O, -10.64
+151, ethoxybenzene,oxidane, CCOc1ccccc1,O, -2.22
+152, 1-methylpiperazine,oxidane, CN1CCNCC1,O, -7.77
+153, phthalimide,oxidane, c1ccc2c(c1)C(=O)NC2=O,O, -9.61
+154, cyclopropane,oxidane, C1CC1,O, 0.75
+155, 3-chloropyridine,oxidane, c1cc(cnc1)Cl,O, -4.01
+156, (2E)-hex-2-enal,oxidane, CCC/C=C/C=O,O, -3.68
+157, 1-bromobutane,oxidane, CCCCBr,O, -0.40
+158, naphthalene,oxidane, c1ccc2ccccc2c1,O, -2.40
+159, pyrrole,oxidane, c1cc[nH]c1,O, -4.78
+160," 1,2,3,7-tetrachlorodibenzo-p-dioxin",oxidane, c1cc2c(cc1Cl)Oc3cc(c(c(c3O2)Cl)Cl)Cl,O, -3.84
+161," 2,3,7,8-tetrachlorodibenzo-p-dioxin",oxidane, c1c2c(cc(c1Cl)Cl)Oc3cc(c(cc3O2)Cl)Cl,O, -3.37
+162, 2-hydroxybenzaldehyde,oxidane, c1ccc(c(c1)C=O)O,O, -4.68
+163, styrene,oxidane, C=Cc1ccccc1,O, -1.24
+164, pentan-2-ol,oxidane, CCC[C@@H](C)O,O, -4.39
+165, isobutyl nitrate,oxidane, CC(C)CO[N+](=O)[O-],O, -1.88
+166, acetylsalicylic acid,oxidane, CC(=O)Oc1ccccc1C(=O)O,O, -9.94
+167, 4-ethylphenol,oxidane, CCc1ccc(cc1)O,O, -6.13
+168, p-cresol,oxidane, Cc1ccc(cc1)O,O, -6.13
+169, 3-methylbutanoic acid,oxidane, CC(C)CC(=O)O,O, -6.09
+170, N-propylpropan-1-amine,oxidane, CCCNCCC,O, -3.65
+171," 1,2,3,4,7,8-hexachlorodibenzo-p-dioxin",oxidane, c1c2c(cc(c1Cl)Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2,O, -3.71
+172, pyridine,oxidane, c1ccncc1,O, -4.69
+173," 9,10-dihydroanthracene",oxidane, c1ccc2c(c1)Cc3ccccc3C2,O, -3.78
+174, thiophene,oxidane, c1ccsc1,O, -1.40
+175, 2-methylprop-1-ene,oxidane, CC(=C)C,O, 1.16
+176, chloroform,oxidane, C(Cl)(Cl)Cl,O, -1.08
+177," 2,2,2-trifluoroethanol",oxidane, C(C(F)(F)F)O,O, -4.31
+178, prop-1-ene,oxidane, CC=C,O, 1.32
+179, acetic acid,oxidane, CC(=O)O,O, -6.69
+180, 1-ethyl-2-methylbenzene,oxidane, CCc1ccccc1C,O, -0.85
+181," 2-N-ethyl-6-(methylsulfanyl)-4-N-(propan-2-yl)-1,3,5-triazine-2,4-diamine",oxidane, CCNc1nc(nc(n1)SC)NC(C)C,O, -7.65
+182, benzene,oxidane, c1ccccc1,O, -0.90
+183," 2,2,5-trimethylhexane",oxidane, CC(C)CCC(C)(C)C,O, 2.93
+184, dimethoxymethane,oxidane, COCOC,O, -2.93
+185, terbacil,oxidane, Cc1c(c(=O)n(c(=O)[nH]1)C(C)(C)C)Cl,O, -11.14
+186, propan-1-ol,oxidane, CCCO,O, -4.85
+187," 2,5-dimethylphenol",oxidane, Cc1ccc(c(c1)O)C,O, -5.91
+188, decan-1-ol,oxidane, CCCCCCCCCCO,O, -3.64
+189, octane,oxidane, CCCCCCCC,O, 2.88
+190, 2-chloroaniline,oxidane, c1ccc(c(c1)N)Cl,O, -4.91
+191," 1,2,4-trimethylbenzene",oxidane, Cc1ccc(c(c1)C)C,O, -0.86
+192, 2-methylaniline,oxidane, Cc1ccccc1N,O, -5.53
+193, pirimor,oxidane, Cc1c(nc(nc1OC(=O)N(C)C)N(C)C)C,O, -9.41
+194," 1,2-dinitroxypropane",oxidane, C[C@@H](CO[N+](=O)[O-])O[N+](=O)[O-],O, -4.95
+195, cyclohexene,oxidane, C1CCC=CC1,O, 0.14
+196, p-xylene,oxidane, Cc1ccc(cc1)C,O, -0.80
+197, glycerol,oxidane, C(C(CO)O)O,O, -13.43
+198, naphthalen-2-amine,oxidane, c1ccc2cc(ccc2c1)N,O, -7.47
+199, 2-chlorosyringaldehyde,oxidane, COc1cc(c(c(c1O)OC)Cl)C=O,O, -7.78
+200," N-methyl-N-(2,2,2-trifluoroethyl)aniline",oxidane, CN(CC(F)(F)F)c1ccccc1,O, -1.92
+201, 2-methoxypropane,oxidane, CC(C)OC,O, -2.01
+202," 1,2,3,4-tetrachloro-5-(3,4,5-trichlorophenyl)benzene",oxidane, c1c(cc(c(c1Cl)Cl)Cl)c2cc(c(c(c2Cl)Cl)Cl)Cl,O, -3.17
+203," 2-[(1R)-1-methylpropyl]-4,6-dinitro-phenolate",oxidane, CC[C@@H](C)c1cc(cc(c1O)[N+](=O)[O-])[N+](=O)[O-],O, -6.23
+204, nonan-5-one,oxidane, CCCCC(=O)CCCC,O, -2.64
+205, sulfolane,oxidane, C1CC[S+2](C1)([O-])[O-],O, -8.61
+206, trimethoxymethylbenzene,oxidane, COC(c1ccccc1)(OC)OC,O, -4.04
+207, 4-propylguaiacol,oxidane, CCCc1ccc(c(c1)OC)O,O, -5.26
+208," 1,1-difluoroethane",oxidane, CC(F)F,O, -0.11
+209, 5-fluorouracil,oxidane, c1c(c(=O)[nH]c(=O)[nH]1)F,O, -16.92
+210, nonan-1-ol,oxidane, CCCCCCCCCO,O, -3.88
+211, tetrahydropyran,oxidane, C1CCOCC1,O, -3.12
+212, iodobenzene,oxidane, c1ccc(cc1)I,O, -1.74
+213, 2-methylpentan-2-ol,oxidane, CCCC(C)(C)O,O, -3.92
+214, chloro-fluoro-methane,oxidane, C(F)Cl,O, -0.77
+215," 1,2,3-trimethylbenzene",oxidane, Cc1cccc(c1C)C,O, -1.21
+216, 1-(p-tolyl)ethanone,oxidane, Cc1ccc(cc1)C(=O)C,O, -4.70
+217, 2-methoxyphenol,oxidane, COc1ccccc1O,O, -5.94
+218, 2-acetoxyethyl acetate,oxidane, CC(=O)OCCOC(=O)C,O, -6.34
+219, pentylbenzene,oxidane, CCCCCc1ccccc1,O, -0.23
+220, hexan-1-ol,oxidane, CCCCCCO,O, -4.40
+221, pentyl propanoate,oxidane, CCCCCOC(=O)CC,O, -2.11
+222, heptan-2-one,oxidane, CCCCCC(=O)C,O, -3.04
+223," 2-chloro-1,1,1-trimethoxy-ethane",oxidane, COC(CCl)(OC)OC,O, -4.59
+224, octan-1-ol,oxidane, CCCCCCCCO,O, -4.09
+225, 1-chlorobutane,oxidane, CCCCCl,O, -0.16
+226, naphthalen-2-ol,oxidane, c1ccc2cc(ccc2c1)O,O, -8.11
+227, cyclohexanone,oxidane, C1CCC(=O)CC1,O, -4.91
+228," 1,1-diethoxyethane",oxidane, CCOC(C)OCC,O, -3.28
+229, propyl butanoate,oxidane, CCCC(=O)OCCC,O, -2.28
+230, non-1-ene,oxidane, CCCCCCCC=C,O, 2.06
+231," 1,4-dimethylnaphthalene",oxidane, Cc1ccc(c2c1cccc2)C,O, -2.82
+232, quinone,oxidane, C1=CC(=O)C=CC1=O,O, -6.50
+233, 1-bromo-pentane,oxidane, CCCCCBr,O, -0.10
+234, isopropenylbenzene,oxidane, CC(=C)c1ccccc1,O, -1.24
+235," 1,1,1-trichloroethane",oxidane, CC(Cl)(Cl)Cl,O, -0.19
+236, dichloromethane,oxidane, C(Cl)Cl,O, -1.31
+237, 1-methylpyrrole,oxidane, Cn1cccc1,O, -2.89
+238, 3-nitroaniline,oxidane, c1cc(cc(c1)[N+](=O)[O-])N,O, -8.84
+239, hexyl nitrate,oxidane, CCCCCCO[N+](=O)[O-],O, -1.66
+240, naphthalen-1-amine,oxidane, c1ccc2c(c1)cccc2N,O, -7.28
+241, acetone,oxidane, CC(=O)C,O, -3.80
+242, cyclopentanone,oxidane, C1CCC(=O)C1,O, -4.70
+243, methyl benzoate,oxidane, COC(=O)c1ccccc1,O, -3.92
+244, benzaldehyde,oxidane, c1ccc(cc1)C=O,O, -4.02
+245, ethyl benzoate,oxidane, CCOC(=O)c1ccccc1,O, -3.64
+246," 1,2,3,4,7-pentachlorodibenzo-p-dioxin",oxidane, c1cc2c(cc1Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2,O, -4.15
+247," 1,2,3-trichlorobenzene",oxidane, c1cc(c(c(c1)Cl)Cl)Cl,O, -1.24
+248, methyl acetate,oxidane, CC(=O)OC,O, -3.13
+249," 1,1-dichloroethane",oxidane, CC(Cl)Cl,O, -0.84
+250," 2,4-dimethylpentan-3-one",oxidane, CC(C)C(=O)C(C)C,O, -2.74
+251, o-cresol,oxidane, Cc1ccccc1O,O, -5.90
+252, 5-bromouracil,oxidane, c1c(c(=O)[nH]c(=O)[nH]1)Br,O, -18.17
+253, pent-1-ene,oxidane, CCCC=C,O, 1.68
+254, 2-methylhexane,oxidane, CCCCC(C)C,O, 2.93
+255," 1,4-dimethylpiperazine",oxidane, CN1CCN(CC1)C,O, -7.58
+256," 2,7-dichlorodibenzo-p-dioxin",oxidane, c1cc2c(cc1Cl)Oc3ccc(cc3O2)Cl,O, -3.67
+257," 2,3,4-trimethylpentane",oxidane, CC(C)C(C)C(C)C,O, 2.56
+258," N,N-dimethylbenzamide",oxidane, CN(C)C(=O)c1ccccc1,O, -9.29
+259, nitrobenzene,oxidane, c1ccc(cc1)[N+](=O)[O-],O, -4.12
+260, 4-methoxyaniline,oxidane, COc1ccc(cc1)N,O, -7.48
+261," 1,2,3,4-tetrachlorobenzene",oxidane, c1cc(c(c(c1Cl)Cl)Cl)Cl,O, -1.34
+262, isobutylbenzene,oxidane, CC(C)Cc1ccccc1,O, 0.16
+263, 2-methylpyridine,oxidane, Cc1ccccn1,O, -4.63
+264, 2-chloropyridine,oxidane, c1ccnc(c1)Cl,O, -4.39
+265, pent-1-yne,oxidane, CCCC#C,O, 0.01
+266, propanenitrile,oxidane, CCC#N,O, -3.84
+267, 6-chlorouracil,oxidane, c1c(=O)[nH]c(=O)[nH]c1Cl,O, -15.83
+268, iodomethane,oxidane, CI,O, -0.89
+269," 1-amino-4-hydroxy-9,10-anthracenedione",oxidane, c1ccc2c(c1)C(=O)c3c(ccc(c3C2=O)O)N,O, -9.53
+270, nonane,oxidane, CCCCCCCCC,O, 3.13
+271, 4-chloro-3-methyl-phenol,oxidane, Cc1cc(ccc1Cl)O,O, -6.79
+272, chloromethane,oxidane, CCl,O, -0.55
+273, 1-acetoxyethyl acetate,oxidane, CC(OC(=O)C)OC(=O)C,O, -4.97
+274," (Z)-1,2-dichloroethylene",oxidane, C(=C\Cl)\Cl,O, -1.17
+275," 1,1-diphenylethene",oxidane, C=C(c1ccccc1)c2ccccc2,O, -2.78
+276, fluorobenzene,oxidane, c1ccc(cc1)F,O, -0.80
+277, 1-bromo-4-methyl-benzene,oxidane, Cc1ccc(cc1)Br,O, -1.39
+278," 2-bromo-2-chloro-1,1,1-trifluoro-ethane",oxidane, [C@@H](C(F)(F)F)(Cl)Br,O, -0.11
+279," 1,4-dichlorobenzene",oxidane, c1cc(ccc1Cl)Cl,O, -1.01
+280," 2,3-dimethylbutane",oxidane, CC(C)C(C)C,O, 2.34
+281," 2,6-dimethylpyridine",oxidane, Cc1cccc(n1)C,O, -4.59
+282," (2R,3R,4R,5R)-Hexan-1,2,3,4,5,6-hexol",oxidane, C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O,O, -23.62
+283, 1-chloro-2-(2-chloroethoxy)ethane,oxidane, C(CCl)OCCCl,O, -4.23
+284, ethyl paraben,oxidane, CCOC(=O)c1ccc(cc1)O,O, -9.20
+285, 1-benzylimidazole,oxidane, c1ccc(cc1)Cn2ccnc2,O, -7.63
+286, methyl cyclopropanecarboxylate,oxidane, COC(=O)C1CC1,O, -4.10
+287," 1,2-dimethoxyethane",oxidane, COCCOC,O, -4.84
+288, ethylene glycol,oxidane, C(CO)O,O, -9.30
+289, m-bis(trifluoromethyl)benzene,oxidane, c1cc(cc(c1)C(F)(F)F)C(F)(F)F,O, 1.07
+290, 4-propylphenol,oxidane, CCCc1ccc(cc1)O,O, -5.21
+291, 2-propoxyethanol,oxidane, CCCOCCO,O, -6.40
+292, heptachlor,oxidane, C1=C[C@@H]([C@@H]2[C@H]1[C@@]3(C(=C([C@]2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl,O, -2.55
+293," 1,2-diethoxyethane",oxidane, CCOCCOCC,O, -3.54
+294, octanal,oxidane, CCCCCCCC=O,O, -2.29
+295," 1,2-dichloropropane",oxidane, C[C@@H](CCl)Cl,O, -1.27
+296," 1,2-dimethylcyclohexane",oxidane, C[C@@H]1CCCC[C@@H]1C,O, 1.58
+297, 1-iodoheptane,oxidane, CCCCCCCI,O, 0.27
+298, hept-1-ene,oxidane, CCCCCC=C,O, 1.66
+299," 2,4-dimethylphenol",oxidane, Cc1ccc(c(c1)C)O,O, -6.01
+300, pentanoic acid,oxidane, CCCCC(=O)O,O, -6.16
+301, hexachlorobenzene,oxidane, c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)Cl,O, -2.33
+302, methanesulfonyl chloride,oxidane, CS(=O)(=O)Cl,O, -4.87
+303," 2,6-dimethoxyphenol",oxidane, COc1cccc(c1O)OC,O, -6.96
+304, aniline,oxidane, c1ccc(cc1)N,O, -5.49
+305, 3-ethylpyridine,oxidane, CCc1cccnc1,O, -4.59
+306, pentanenitrile,oxidane, CCCCC#N,O, -3.52
+307, isopentyl formate,oxidane, CC(C)CCOC=O,O, -2.13
+308, hept-1-yne,oxidane, CCCCCC#C,O, 0.60
+309, diethoxymethoxybenzene,oxidane, CCOC(OCC)Oc1ccccc1,O, -5.23
+310," 2-(2,3-dimethylphenyl)aminobenzoic acid",oxidane, Cc1cccc(c1C)Nc2ccccc2C(=O)O,O, -6.78
+311, nitroxyacetone,oxidane, CC(=O)CO[N+](=O)[O-],O, -5.99
+312, ethylsulfanylethane,oxidane, CCSCC,O, -1.46
+313," 2-amino-9,10-anthraquinone",oxidane, c1ccc2c(c1)C(=O)c3ccc(cc3C2=O)N,O, -11.53
+314, 4-(1-Methylethenyl)-1-cyclohexene-1-carboxaldehyde,oxidane, CC(=C)[C@H]1CCC(=CC1)C=O,O, -4.09
+315, pyridine-4-carbonitrile,oxidane, c1cnccc1C#N,O, -6.02
+316, 1-propylsulfanylpropane,oxidane, CCCSCCC,O, -1.28
+317, 2-methyltetrahydrofuran,oxidane, C[C@H]1CCCO1,O, -3.30
+318, 2-nitrophenol,oxidane, c1ccc(c(c1)[N+](=O)[O-])O,O, -4.58
+319, 2-methoxyaniline,oxidane, COc1ccccc1N,O, -6.12
+320," 1-N,1-N-diethyl-2,6-dinitro-4-(trifluoromethyl)benzene-1,3-diamine",oxidane, CCN(CC)c1c(cc(c(c1[N+](=O)[O-])N)C(F)(F)F)[N+](=O)[O-],O, -5.66
+321, heptan-1-ol,oxidane, CCCCCCCO,O, -4.21
+322, indane,oxidane, c1ccc2c(c1)CCC2,O, -1.46
+323," 2,6-dimethylnaphthalene",oxidane, Cc1ccc2cc(ccc2c1)C,O, -2.63
+324, butadiene,oxidane, C=CC=C,O, 0.56
+325, 4-methylpentan-2-ol,oxidane, C[C@H](CC(C)C)O,O, -3.73
+326, isobutane,oxidane, CC(C)C,O, 2.30
+327, aldicarb,oxidane, CC(C)(/C=N\OC(=O)NC)SC,O, -9.84
+328, 2-ethylpyrazine,oxidane, CCc1cnccn1,O, -5.45
+329, methanethiol,oxidane, CS,O, -1.20
+330, 1-ethylnaphthalene,oxidane, CCc1cccc2c1cccc2,O, -2.40
+331," 1,2-dinitroxyethane",oxidane, C(CO[N+](=O)[O-])O[N+](=O)[O-],O, -5.73
+332, Amitriptyline,oxidane, CN(C)CCC=C1c2ccccc2CCc3c1cccc3,O, -7.43
+333," 1,4-dichlorobutane",oxidane, C(CCCl)CCl,O, -2.32
+334, hex-1-ene,oxidane, CCCCC=C,O, 1.58
+335, phenylmethanol,oxidane, c1ccc(cc1)CO,O, -6.62
+336," N,N-dimethylaniline",oxidane, CN(C)c1ccccc1,O, -3.45
+337," 3,3-dimethylbutan-2-one",oxidane, CC(=O)C(C)(C)C,O, -3.11
+338," 2,2-dichloro-1,1-difluoro-1-methoxy-ethane",oxidane, COC(C(Cl)Cl)(F)F,O, -1.12
+339, 2-chlorodibenzo-p-dioxin,oxidane, c1ccc2c(c1)Oc3ccc(cc3O2)Cl,O, -3.10
+340, methyl butanoate,oxidane, CCCC(=O)OC,O, -2.83
+341, diazinon,oxidane, CCOP(=S)(OCC)Oc1cc(nc(n1)C(C)C)C,O, -6.48
+342, cumene,oxidane, CC(C)c1ccccc1,O, -0.30
+343, n-pentane,oxidane, CCCCC,O, 2.30
+344," 1,2,3,4,5-pentachloro-6-(2,3,4,5,6-pentachlorophenyl)benzene",oxidane, c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)c2c(c(c(c(c2Cl)Cl)Cl)Cl)Cl,O, -2.98
+345, 4-tert-butylphenol,oxidane, CC(C)(C)c1ccc(cc1)O,O, -5.91
+346, isopentyl acetate,oxidane, CC(C)CCOC(=O)C,O, -2.21
+347," 2,3-dimethylnaphthalene",oxidane, Cc1cc2ccccc2cc1C,O, -2.78
+348," 1,1,2,3,3,3-hexafluoroprop-1-ene",oxidane, C(=C(F)F)(C(F)(F)F)F,O, 2.93
+349, 1-methylimidazole,oxidane, Cn1ccnc1,O, -8.41
+350," 1,1,1-trimethoxyethane",oxidane, CC(OC)(OC)OC,O, -4.42
+351," 1,2,3,4-tetrachlorodibenzo-p-dioxin",oxidane, c1ccc2c(c1)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2,O, -3.81
+352, 4-methylaniline,oxidane, Cc1ccc(cc1)N,O, -5.57
+353, benzenethiol,oxidane, c1ccc(cc1)S,O, -2.55
+354," 1,3,5-trichloro-2-phenyl-benzene",oxidane, c1ccc(cc1)c2c(cc(cc2Cl)Cl)Cl,O, -2.16
+355," 1,3,5-trichloro-2-(2,6-dichlorophenyl)benzene",oxidane, c1cc(c(c(c1)Cl)c2c(cc(cc2Cl)Cl)Cl)Cl,O, -1.96
+356," 2,6-dimethylaniline",oxidane, Cc1cccc(c1N)C,O, -5.21
+357," 4-methoxy-N,N-dimethyl-benzamide",oxidane, CN(C)C(=O)c1ccc(cc1)OC,O, -11.01
+358," (2S,5R)-2-isopropyl-5-methylcyclohexanone",oxidane, C[C@@H]1CC[C@H](C(=O)C1)C(C)C,O, -2.53
+359, 2-methylpropanal,oxidane, CC(C)C=O,O, -2.86
+360, ammonia,oxidane, N,O, -4.29
+361," 1,3-dimethylnaphthalene",oxidane, Cc1cc(c2ccccc2c1)C,O, -2.47
+362," hexa-1,5-diene",oxidane, C=CCCC=C,O, 1.01
+363, N-methylmethanamine,oxidane, CNC,O, -4.29
+364, dicamba,oxidane, COc1c(ccc(c1C(=O)O)Cl)Cl,O, -9.86
+365, 4-methyl-1H-imidazole,oxidane, Cc1c[nH]cn1,O, -10.27
+366, 1-methyl-2-nitro-benzene,oxidane, Cc1ccccc1[N+](=O)[O-],O, -3.58
+367," 1,1,1,2-tetramethoxyethane",oxidane, COCC(OC)(OC)OC,O, -5.73
+368, pentan-1-ol,oxidane, CCCCCO,O, -4.57
+369, dimethyl sulfate,oxidane, COS(=O)(=O)OC,O, -5.10
+370, 2-methoxyethanol,oxidane, COCCO,O, -6.62
+371, methylcyclopentane,oxidane, CC1CCCC1,O, 1.59
+372, quinoline,oxidane, c1ccc2c(c1)cccn2,O, -5.72
+373, 2-butoxyethanol,oxidane, CCCCOCCO,O, -6.25
+374, hexylbenzene,oxidane, CCCCCCc1ccccc1,O, -0.04
+375, propyl propanoate,oxidane, CCCOC(=O)CC,O, -2.44
+376, ethyldisulfanylethane,oxidane, CCSSCC,O, -1.64
+377, 4-methyl-2-methoxyphenol,oxidane, Cc1ccc(c(c1)OC)O,O, -5.80
+378," 2,2-dimethylbutane",oxidane, CCC(C)(C)C,O, 2.51
+379, 2-nitroaniline,oxidane, c1ccc(c(c1)N)[N+](=O)[O-],O, -7.37
+380," 1,1,2,2-tetrachloroethylene",oxidane, C(=C(Cl)Cl)(Cl)Cl,O, 0.10
+381, 3-methylbutan-1-ol,oxidane, CC(C)CCO,O, -4.42
+382, 3-methylpyridine,oxidane, Cc1cccnc1,O, -4.77
+383, 1-nitrobutane,oxidane, CCCC[N+](=O)[O-],O, -3.09
+384, diflunisal,oxidane, c1cc(c(cc1c2ccc(cc2F)F)C(=O)O)O,O, -9.40
+385, hexan-1-amine,oxidane, CCCCCCN,O, -3.95
+386, oct-2-enal,oxidane, CCCCC/C=C/C=O,O, -3.43
+387, 4-nitroaniline,oxidane, c1cc(ccc1N)N(=O)=O,O, -9.82
+388, ethylene,oxidane, C=C,O, 1.28
+389, diphenyl ether,oxidane, c1ccc(cc1)Oc2ccccc2,O, -2.87
+390, trimethyl phosphate,oxidane, COP(=O)(OC)OC,O, -8.70
+391, 4-methylbenzaldehyde,oxidane, Cc1ccc(cc1)C=O,O, -4.27
+392," 1,1,2,2-tetrachloroethane",oxidane, C(C(Cl)Cl)(Cl)Cl,O, -2.37
+393," 2,6-dichlorosyringaldehyde",oxidane, COc1c(c(c(c(c1Cl)C=O)Cl)OC)O,O, -8.68
+394," 2,3-diacetoxypropyl acetate",oxidane, CC(=O)OCC(COC(=O)C)OC(=O)C,O, -8.84
+395, propyl paraben,oxidane, CCCOC(=O)c1ccc(cc1)O,O, -9.37
+396, pyridine-3-carbaldehyde,oxidane, c1cc(cnc1)C=O,O, -7.10
+397, 2-chlorobutane,oxidane, CC[C@H](C)Cl,O, 0.00
+398, cyanuric acid,oxidane, c1(=O)[nH]c(=O)[nH]c(=O)[nH]1,O, -18.06
+399, octan-1-amine,oxidane, CCCCCCCCN,O, -3.65
+400, 1-iodohexane,oxidane, CCCCCCI,O, 0.08
+401, 3-chloroaniline,oxidane, c1cc(cc(c1)Cl)N,O, -5.82
+402, azetidine,oxidane, C1CNC1,O, -5.56
+403, 1-bromo-2-methyl-propane,oxidane, CC(C)CBr,O, -0.03
+404," 1,1,1-trifluoropropan-2-ol",oxidane, C[C@@H](C(F)(F)F)O,O, -4.16
+405," 1,3-dichloro-2-(2,6-dichlorophenyl)benzene",oxidane, c1cc(c(c(c1)Cl)c2c(cccc2Cl)Cl)Cl,O, -2.28
+406, 4-ethylpyridine,oxidane, CCc1ccncc1,O, -4.73
+407, piperidine,oxidane, C1CCNCC1,O, -5.11
+408, 1-(4-methoxyphenyl)ethanone,oxidane, CC(=O)c1ccc(cc1)OC,O, -4.40
+409," (1R)-2,2,2-trichloro-1-dimethoxyphosphoryl-ethanol",oxidane, COP(=O)([C@H](C(Cl)(Cl)Cl)O)OC,O, -12.74
+410, terbutryn,oxidane, CCNc1nc(nc(n1)SC)NC(C)(C)C,O, -6.68
+411, 1-(3-pyridyl)ethanone,oxidane, CC(=O)c1cccnc1,O, -8.26
+412," 1,2-bis(trifluoromethyl)benzene",oxidane, c1ccc(c(c1)C(F)(F)F)C(F)(F)F,O, 1.07
+413, carbon tetrachloride,oxidane, C(Cl)(Cl)(Cl)Cl,O, 0.08
+414," 1,4-dichloro-2-phenyl-benzene",oxidane, c1ccc(cc1)c2cc(ccc2Cl)Cl,O, -2.46
+415, 1-methylpiperidine,oxidane, CN1CCCCC1,O, -3.88
+416, anthracene,oxidane, c1ccc2cc3ccccc3cc2c1,O, -3.95
+417, propylcyclopentane,oxidane, CCCC1CCCC1,O, 2.13
+418, propylbenzene,oxidane, CCCc1ccccc1,O, -0.53
+419, isobutyl 2-methylpropanoate,oxidane, CC(C)COC(=O)C(C)C,O, -1.69
+420, pyrrolidine,oxidane, C1CCNC1,O, -5.48
+421, chloroethylene,oxidane, C=CCl,O, -0.59
+422, but-2-enal,oxidane, C/C=C/C=O,O, -4.22
+423," 2-chloro-1-(2,4-dichlorophenyl)ethenyl diethyl phosphate",oxidane, CCOP(=O)(OCC)O/C(=C/Cl)/c1ccc(cc1Cl)Cl,O, -7.07
+424, 1-methylcyclohexene,oxidane, CC1=CCCCC1,O, 0.67
+425, ethyl pentanoate,oxidane, CCCCC(=O)OCC,O, -2.49
+426, carbofuran,oxidane, CC1(Cc2cccc(c2O1)OC(=O)NC)C,O, -9.61
+427, propanal,oxidane, CCC=O,O, -3.43
+428, diiodomethane,oxidane, C(I)I,O, -2.49
+429," 1,2,3,4-tetrachloro-5-(2,3,4-trichlorophenyl)benzene",oxidane, c1cc(c(c(c1c2cc(c(c(c2Cl)Cl)Cl)Cl)Cl)Cl)Cl,O, -4.40
+430," 3,5-dichloro-2,6-dimethoxyphenol",oxidane, COc1c(cc(c(c1O)OC)Cl)Cl,O, -6.44
+431, methanamine,oxidane, CN,O, -4.55
+432, 2-(nitrooxy)ethan-1-ol,oxidane, C(CO[N+](=O)[O-])O,O, -8.18
+433, chlordane,oxidane, C1[C@H]([C@@H]2[C@H]([C@H]1Cl)[C@]3(C(=C([C@@]2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl,O, -3.44
+434," 1,4-dioxane",oxidane, C1COCCO1,O, -5.06
+435," 3,4-dimethylphenol",oxidane, Cc1ccc(cc1C)O,O, -6.50
+436, tetrafluoromethane,oxidane, C(F)(F)(F)F,O, 3.12
+437, 1-(4-pyridyl)ethanone,oxidane, CC(=O)c1ccncc1,O, -7.62
+438," 1,2,4,5-tetrachlorobenzene",oxidane, c1c(c(cc(c1Cl)Cl)Cl)Cl,O, -1.34
+439, hexane,oxidane, CCCCCC,O, 2.48
+440," 1,2,2-trifluoroethoxybenzene",oxidane, c1ccc(cc1)O[C@@H](C(F)F)F,O, -1.29
+441, isopropyl formate,oxidane, CC(C)OC=O,O, -2.02
+442, fenuron,oxidane, CN(C)C(=O)Nc1ccccc1,O, -9.13
+443, 3-methylheptane,oxidane, CCCC[C@@H](C)CC,O, 2.97
+444, methoxyethane,oxidane, CCOC,O, -2.10
+445, 2-methoxyethanamine,oxidane, COCCN,O, -6.55
+446, methyl 2-chloroacetate,oxidane, COC(=O)CCl,O, -4.00
+447," (3R)-3,7-Dimethylocta-1,6-dien-3-yl acetate",oxidane, CC(=CCC[C@](C)(C=C)OC(=O)C)C,O, -2.49
+448, ethyl acetate,oxidane, CCOC(=O)C,O, -2.94
+449, methyl cyclohexanecarboxylate,oxidane, COC(=O)C1CCCCC1,O, -3.30
+450, isopropyl acetate,oxidane, CC(C)OC(=O)C,O, -2.64
+451, 2-ethylpyridine,oxidane, CCc1ccccn1,O, -4.33
+452," 3,5-dimethylphenol",oxidane, Cc1cc(cc(c1)O)C,O, -6.27
+453, cyclohexanol,oxidane, C1CCC(CC1)O,O, -5.46
+454, methoxymethane,oxidane, COC,O, -1.91
+455, phenanthrene,oxidane, c1ccc2c(c1)ccc3c2cccc3,O, -3.88
+456, naphthalen-1-ol,oxidane, c1ccc2c(c1)cccc2O,O, -7.67
+457, 2-chloro-2-methyl-propane,oxidane, CC(C)(C)Cl,O, 1.09
+458, 4-chlorophenol,oxidane, c1cc(ccc1O)Cl,O, -7.03
+459, 3-chloroprop-1-ene,oxidane, C=CCCl,O, -0.57
+460, isohexane,oxidane, CCCC(C)C,O, 2.51
+461, pentan-1-amine,oxidane, CCCCCN,O, -4.09
+462," 1,4-dibromobenzene",oxidane, c1cc(ccc1Br)Br,O, -2.30
+463, 1-chloroheptane,oxidane, CCCCCCCCl,O, 0.29
+464, trifluralin,oxidane, CCCN(CCC)c1c(cc(cc1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],O, -3.25
+465, 3-nitrophenol,oxidane, c1cc(cc(c1)O)[N+](=O)[O-],O, -9.62
+466, heptan-1-amine,oxidane, CCCCCCCN,O, -3.79
+467, 2-fluorophenol,oxidane, c1ccc(c(c1)O)F,O, -5.29
+468, hexanamide,oxidane, CCCCCC(=O)N,O, -9.31
+469, pentan-3-ol,oxidane, CCC(CC)O,O, -4.35
+470, 1-chlorodibenzo-p-dioxin,oxidane, c1ccc2c(c1)Oc3cccc(c3O2)Cl,O, -3.52
+471, hydrazine,oxidane, NN,O, -9.30
+472, anisole,oxidane, COc1ccccc1,O, -2.45
+473, 1-methyl-3-nitro-benzene,oxidane, Cc1cccc(c1)[N+](=O)[O-],O, -3.45
+474, chlorpyrifos,oxidane, CCOP(=S)(OCC)Oc1c(cc(c(n1)Cl)Cl)Cl,O, -5.04
+475, propan-2-ol,oxidane, CC(C)O,O, -4.74
+476," 1,1,1-trifluoro-2,2,2-trimethoxyethane",oxidane, COC(C(F)(F)F)(OC)OC,O, -0.80
+477," 3,5,5-trimethylcyclohex-2-en-1-one",oxidane, CC1=CC(=O)CC(C1)(C)C,O, -5.18
+478, undecan-2-one,oxidane, CCCCCCCCCC(=O)C,O, -2.15
+479, caffeine,oxidane, Cn1cnc2c1c(=O)n(c(=O)n2C)C,O, -12.64
+480, methyl 4-methoxybenzoate,oxidane, COc1ccc(cc1)C(=O)OC,O, -5.33
+481," N,N-dimethyl-4-nitro-benzamide",oxidane, CN(C)C(=O)c1ccc(cc1)[N+](=O)[O-],O, -11.95
+482, 2-ethoxyethyl acetate,oxidane, CCOCCOC(=O)C,O, -5.31
+483, isobutyl formate,oxidane, CC(C)COC=O,O, -2.22
+484," N-(3,4-dichlorophenyl)propanimidic acid",oxidane, CCC(=O)Nc1ccc(c(c1)Cl)Cl,O, -7.78
+485, 3-phenylpropan-1-ol,oxidane, c1ccc(cc1)CCCO,O, -6.92
+486, 1-phenylethanone,oxidane, CC(=O)c1ccccc1,O, -4.58
+487, acetonitrile,oxidane, CC#N,O, -3.88
+488, 1-propoxypropane,oxidane, CCCOCCC,O, -1.16
+489, 3-methoxyaniline,oxidane, COc1cccc(c1)N,O, -7.29
+490, propyl acetate,oxidane, CCCOC(=O)C,O, -2.79
+491, bromoform,oxidane, C(Br)(Br)Br,O, -2.13
+492, bromobenzene,oxidane, c1ccc(cc1)Br,O, -1.46
+493, methyl octanoate,oxidane, CCCCCCCC(=O)OC,O, -2.04
+494, chlorobenzene,oxidane, c1ccc(cc1)Cl,O, -1.12
+495, 2-methylpentan-3-ol,oxidane, CC[C@H](C(C)C)O,O, -3.88
+496," 1,1,2-trichloroethylene",oxidane, C(=C(Cl)Cl)Cl,O, -0.44
+497, 6-isopropyl-3-methyl-1-cyclohex-2-enone,oxidane, CC1=CC(=O)[C@@H](CC1)C(C)C,O, -4.51
+498, 3-hydroxybenzaldehyde,oxidane, c1cc(cc(c1)O)C=O,O, -9.52
+499, methyldisulfanylmethane,oxidane, CSSC,O, -1.83
+500, 1-bromopropane,oxidane, CCCBr,O, -0.56
+501, bromo-trifluoro-methane,oxidane, C(F)(F)(F)Br,O, 1.79
+502, imidazole,oxidane, c1cnc[nH]1,O, -9.63
+503, ethion,oxidane, CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,O, -6.10
+504, propionic acid,oxidane, CCC(=O)O,O, -6.46
+505, 1-bromo-2-chloro-ethane,oxidane, C(CBr)Cl,O, -1.95
+506, 2-bromo-2-methyl-propane,oxidane, CC(C)(C)Br,O, 0.84
+507, N-methylaniline,oxidane, CNc1ccccc1,O, -4.69
+508, 2-methylbut-2-ene,oxidane, CC=C(C)C,O, 1.31
+509, 5-trifluoromethyluracil,oxidane, c1c(c(=O)[nH]c(=O)[nH]1)C(F)(F)F,O, -15.46
+510," 1,2,4-trichlorobenzene",oxidane, c1cc(c(cc1Cl)Cl)Cl,O, -1.12
+511," N-butyl-N-ethyl-2,6-dinitro-4-(trifluoromethyl)aniline",oxidane, CCCC[N@](CC)c1c(cc(cc1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],O, -3.51
+512, heptanal,oxidane, CCCCCCC=O,O, -2.67
+513, N-butylbutan-1-amine,oxidane, CCCCNCCCC,O, -3.24
+514, [(2S)-butan-2-yl] nitrate,oxidane, CC[C@H](C)O[N+](=O)[O-],O, -1.82
+515, tert-butylbenzene,oxidane, CC(C)(C)c1ccccc1,O, -0.44
+516, butyl paraben,oxidane, CCCCOC(=O)c1ccc(cc1)O,O, -8.72
+517, 1-butoxy-2-propanol,oxidane, CCCCOC[C@H](C)O,O, -5.73
+518, ethyl propanoate,oxidane, CCC(=O)OCC,O, -2.68
+519, hexan-3-ol,oxidane, CCC[C@H](CC)O,O, -4.06
+520, 2-methylbutan-1-ol,oxidane, CC[C@@H](C)CO,O, -4.42
+521, 4-hydroxybenzaldehyde,oxidane, c1cc(ccc1C=O)O,O, -8.83
+522, cyclopentane,oxidane, C1CCCC1,O, 1.20
+523," N,N-dimethylformamide",oxidane, CN(C)C=O,O, -7.81
+524, acetamide,oxidane, CC(=O)N,O, -9.71
+525," 1-amino-9,10-anthracenedione",oxidane, c1ccc2c(c1)C(=O)c3cccc(c3C2=O)N,O, -9.44
+526, 3-chlorophenol,oxidane, c1cc(cc(c1)Cl)O,O, -6.62
+527, endrin,oxidane, C1[C@@H]2[C@H]3[C@@H]([C@H]1[C@H]4[C@@H]2O4)[C@@]5(C(=C([C@]3(C5(Cl)Cl)Cl)Cl)Cl)Cl,O, -4.82
+528, prop-2-en-1-ol,oxidane, C=CCO,O, -5.03
+529, alachlor,oxidane, CCc1cccc(c1N(COC)C(=O)CCl)CC,O, -8.21
+530, ethylbenzene,oxidane, CCc1ccccc1,O, -0.79
+531," (2E)-3,7-dimethylocta-2,6-dien-1-ol",oxidane, CC(=CCC/C(=C/CO)/C)C,O, -4.45
+532," 2-chloro-1,1,1-trifluoro-ethane",oxidane, C(C(F)(F)F)Cl,O, 0.06
+533, simazine,oxidane, CCNc1nc(nc(n1)Cl)NCC,O, -10.22
+534, butyric acid,oxidane, CCCC(=O)O,O, -6.35
+535," 1,2,3,4-tetrachloro-5-(2,3,4,6-tetrachlorophenyl)benzene",oxidane, c1c(c(c(c(c1Cl)Cl)Cl)Cl)c2c(cc(c(c2Cl)Cl)Cl)Cl,O, -4.61
+536, butanenitrile,oxidane, CCCC#N,O, -3.64
+537, prop-1-yne,oxidane, CC#C,O, -0.48
+538," 1,2,4,5-tetrachloro-3-(3,4-dichlorophenyl)benzene",oxidane, c1cc(c(cc1c2c(c(cc(c2Cl)Cl)Cl)Cl)Cl)Cl,O, -4.38
+539, chloro-difluoro-methane,oxidane, C(F)(F)Cl,O, -0.50
+540, 1-nitroethane,oxidane, CC[N+](=O)[O-],O, -3.71
+541," (1R,2S,5R)-2-isopropyl-5-methylcyclohexanol",oxidane, C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,O, -3.20
+542, 4-methylpentan-2-one,oxidane, CC(C)CC(=O)C,O, -3.05
+543, N-ethylethanamine,oxidane, CCNCC,O, -4.07
+544, propionamide,oxidane, CCC(=O)N,O, -9.40
+545," 2,4-dimethylpentane",oxidane, CC(C)CC(C)C,O, 2.83
+546," N,N-diethylethanamine",oxidane, CCN(CC)CC,O, -3.22
+547, hept-2-ene,oxidane, CCCC/C=C/C,O, 1.68
+548, pentanal,oxidane, CCCCC=O,O, -3.03
+549, pentyl acetate,oxidane, CCCCCOC(=O)C,O, -2.51
+550, oct-1-yne,oxidane, CCCCCCC#C,O, 0.71
+551, 1-iodopentane,oxidane, CCCCCI,O, -0.14
+552, 4-fluorophenol,oxidane, c1cc(ccc1O)F,O, -6.19
+553, 4-methylmorpholine,oxidane, CN1CCOCC1,O, -6.32
+554, butanal,oxidane, CCCC=O,O, -3.18
+555, methylsulfinylmethane,oxidane, CS(=O)C,O, -9.28
+556, isobutyl acetate,oxidane, CC(C)COC(=O)C,O, -2.36
+557, heptane,oxidane, CCCCCCC,O, 2.67
+558," 2,3-dimethylpentane",oxidane, CC[C@@H](C)C(C)C,O, 2.52
+559," 2-bromo-1,1,1,2-tetrafluoro-ethane",oxidane, [C@@H](C(F)(F)F)(F)Br,O, 0.50
+560, m-cresol,oxidane, Cc1cccc(c1)O,O, -5.49
+561, N-isopropylpropan-2-amine,oxidane, CC(C)NC(C)C,O, -3.22
+562," N,N-dipropyl(propylsulfanyl)formamide",oxidane, CCCN(CCC)C(=O)SCCC,O, -4.13
+563, 4-chloroaniline,oxidane, c1cc(ccc1N)Cl,O, -5.90
+564, 3-methylbutan-2-one,oxidane, CC(C)C(=O)C,O, -3.24
+565," 2,3-dimethylpyridine",oxidane, Cc1cccnc1C,O, -4.82
+566, propyl formate,oxidane, CCCOC=O,O, -2.48
+567, pyridine-3-carbonitrile,oxidane, c1cc(cnc1)C#N,O, -6.75
+568, isoprene,oxidane, CC(=C)C=C,O, 0.68
+569, 1-iodobutane,oxidane, CCCCI,O, -0.25
+570," 2,5-dimethyltetrahydrofuran",oxidane, C[C@H]1CC[C@@H](O1)C,O, -2.92
+571, 2-iodophenol,oxidane, c1ccc(c(c1)O)I,O, -6.20
+572," 3,3,3-trimethoxypropanenitrile",oxidane, COC(CC#N)(OC)OC,O, -6.40
+573, pyridine-4-carbaldehyde,oxidane, c1cnccc1C=O,O, -7.00
+574, butylbenzene,oxidane, CCCCc1ccccc1,O, -0.40
+575, trifluoromethylbenzene,oxidane, c1ccc(cc1)C(F)(F)F,O, -0.25
+576," 1,2,3-trichloro-5-(2,5-dichlorophenyl)benzene",oxidane, c1cc(c(cc1Cl)c2cc(c(c(c2)Cl)Cl)Cl)Cl,O, -3.61
+577," 1,2,4-trichlorodibenzo-p-dioxin",oxidane, c1ccc2c(c1)Oc3c(cc(c(c3O2)Cl)Cl)Cl,O, -4.05
+578," 2,4-dimethylpyridine",oxidane, Cc1ccnc(c1)C,O, -4.86
+579, tetrahydrofuran,oxidane, C1CCOC1,O, -3.47
+580, 2-methylbenzaldehyde,oxidane, Cc1ccccc1C=O,O, -3.93
+581, cyclopentene,oxidane, C1CC=CC1,O, 0.56
+582, cyclopentanol,oxidane, C1CCC(C1)O,O, -5.49
+583, diethyl (2R)-2-dimethoxyphosphinothioylsulfanylbutanedioate,oxidane, CCOC(=O)C[C@H](C(=O)OCC)SP(=S)(OC)OC,O, -8.15
+584, 2-methylpyrazine,oxidane, Cc1cnccn1,O, -5.51
+585, bromomethane,oxidane, CBr,O, -0.82
+586," 2,3-dimethylbuta-1,3-diene",oxidane, CC(=C)C(=C)C,O, 0.40
+587, naphthalen-1-yl N-methylcarbamate,oxidane, CNC(=O)Oc1cccc2c1cccc2,O, -9.45
+588, 1-bromooctane,oxidane, CCCCCCCCBr,O, 0.52
+589," methyl 2,2,2-trifluoroacetate",oxidane, COC(=O)C(F)(F)F,O, -1.10
+590, butyl nitrate,oxidane, CCCCO[N+](=O)[O-],O, -2.09
+591, fluoromethane,oxidane, CF,O, -0.22
+592, methane,oxidane, C,O, 2.00
+593, methylsulfanylmethane,oxidane, CSC,O, -1.61
+594, methylcyclohexane,oxidane, CC1CCCCC1,O, 1.70
+595, pent-2-ene,oxidane, CC/C=C\C,O, 1.31
+596, methyl 2-cyanoacetate,oxidane, COC(=O)CC#N,O, -6.72
+597, but-1-yne,oxidane, CCC#C,O, -0.16
+598," 1,4-dimethylcyclohexane",oxidane, CC1CCC(CC1)C,O, 2.11
+599, propan-1-amine,oxidane, CCCN,O, -4.39
+600, oct-1-ene,oxidane, CCCCCCC=C,O, 1.92
+601, methyl methanesulfonate,oxidane, COS(=O)(=O)C,O, -4.87
+602," N,N-dimethylmethanamine",oxidane, CN(C)C,O, -3.20
+603," penta-1,4-diene",oxidane, C=CCC=C,O, 0.93
+604, dibromomethane,oxidane, C(Br)Br,O, -1.96
+605," 3,4-dichlorophenol",oxidane, c1cc(c(cc1O)Cl)Cl,O, -7.29
+606, diethoxy-(4-nitrophenoxy)-thioxo-$l^{5}-phosphane,oxidane, CCOP(=S)(OCC)Oc1ccc(cc1)[N+](=O)[O-],O, -6.74
+607, 1-bromohexane,oxidane, CCCCCCBr,O, 0.18
+608, octan-2-one,oxidane, CCCCCCC(=O)C,O, -2.88
+609, 1-methylnaphthalene,oxidane, Cc1cccc2c1cccc2,O, -2.44
+610, 2-bromopropane,oxidane, CC(C)Br,O, -0.48
+611, diethoxy-(ethylsulfanylmethylsulfanyl)-thioxo-$l^{5}-phosphane,oxidane, CCOP(=S)(OCC)SCSCC,O, -4.37
+612, o-xylene,oxidane, Cc1ccccc1C,O, -0.90
+613," 2,5-dimethylpyridine",oxidane, Cc1ccc(nc1)C,O, -4.72
+614," 1,2,3,4-tetrachloro-5-phenyl-benzene",oxidane, c1ccc(cc1)c2cc(c(c(c2Cl)Cl)Cl)Cl,O, -3.48
+615, piperazine,oxidane, C1CNCCN1,O, -7.40
+616," (2R,3R,4S,5S,6R)-6-(hydroxymethyl)tetrahydropyran-2,3,4,5-tetrol",oxidane, C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O)O)O)O)O,O, -25.47
+617, 5-chlorouracil,oxidane, c1c(c(=O)[nH]c(=O)[nH]1)Cl,O, -17.74
+618, 9H-fluorene,oxidane, c1ccc-2c(c1)Cc3c2cccc3,O, -3.35
+619, endosulfan alpha,oxidane, C1[C@@H]2[C@H](COS(=O)O1)[C@@]3(C(=C([C@]2(C3(Cl)Cl)Cl)Cl)Cl)Cl,O, -4.23
+620, decan-2-one,oxidane, CCCCCCCCC(=O)C,O, -2.34
+621," 1,3-dichloropropane",oxidane, C(CCl)CCl,O, -1.89
+622, 2-ethoxyethanol,oxidane, CCOCCO,O, -6.69
+623," (1S,5R)-2-methyl-5-(1-methylethenyl)-2-cyclohexen-1-ol",oxidane, CC1=CC[C@H](C[C@@H]1O)C(=C)C,O, -4.44
+624, 2-nitropropane,oxidane, CC(C)[N+](=O)[O-],O, -3.13
+625, 1-nitropropane,oxidane, CCC[N+](=O)[O-],O, -3.34
+626, 2-methylthiophene,oxidane, Cc1cccs1,O, -1.38
+627, 1-chloro-2-phenyl-benzene,oxidane, c1ccc(cc1)c2ccccc2Cl,O, -2.69
+628," cyclohepta-1,3,5-triene",oxidane, C1C=CC=CC=C1,O, -0.99
+629, butan-1-amine,oxidane, CCCCN,O, -4.24
+630, dichlobenil,oxidane, c1cc(c(c(c1)Cl)C#N)Cl,O, -4.71
+631," 1,3-bis-(nitrooxy)butane",oxidane, C[C@@H](CCO[N+](=O)[O-])O[N+](=O)[O-],O, -4.29
+632, 2-methoxy-2-methyl-propane,oxidane, CC(C)(C)OC,O, -2.21
+633," 1,2,3,4,6,7,8,9-octachlorodibenzo-p-dioxin",oxidane, c12c(c(c(c(c1Cl)Cl)Cl)Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2,O, -4.53
+634, 2-methylbutan-2-ol,oxidane, CCC(C)(C)O,O, -4.43
+635, 3-methylhexane,oxidane, CCC[C@H](C)CC,O, 2.71
+636," (2Z)-3,7-dimethylocta-2,6-dien-1-ol",oxidane, CC(=CCC/C(=C\CO)/C)C,O, -4.78
+637," (E)-1,2-dichloroethylene",oxidane, C(=C/Cl)\Cl,O, -0.78
+638, 1-ethyl-4-methyl-benzene,oxidane, CCc1ccc(cc1)C,O, -0.95
+639, bromoethane,oxidane, CCBr,O, -0.74
+640, 2-isopropylsulfanylpropane,oxidane, CC(C)SC(C)C,O, -1.21
