@@ -3,9 +3,9 @@ Repository for "Challenges in Transferable Prediction of Solvation Free Energy: 
 
 ## Data
 The Data folder contains the neccessary datasets for DeltaG prediction. 
-*   CombiSolv-Exp-8780.csv[1]: This corresponds to CombiSolv-Exp-8780 dataset
-*   freesolv.csv[2]: This is the data of FreeSolv dataset
-*   mnsol.csv[3]: This represents Minnesota Solvation dataset 
+*   CombiSolv-Exp-8780.csv: This corresponds to CombiSolv-Exp-8780 dataset[1]
+*   freesolv.csv: This is the data of FreeSolv dataset[2]
+*   mnsol.csv: This represents Minnesota Solvation dataset[3] 
 *   full.csv: This is the merged dataset.
 
 ## Scripts
