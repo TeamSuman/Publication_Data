@@ -16,6 +16,9 @@ This directory contains all neccessary scripts(python) and  ipython notebooks to
 
 ## References
 [1] Vermeire, F. H.; Green, W. H. Transfer learning for solvation free energies: From quantum chemistry to experiments. Chemical Engineering Journal 2021, 418, 129307
+
 [2] Mobley, D. L.; Guthrie, J. P. FreeSolv: a database of experimental and calculated hydration free energies, with input files. Journal of Computer-Aided Molecular Design 2014, 28, 711–720
+
 [3] Marenich, A. V.; Kelly, C. P.; Thompson, J. D.; Hawkins, G. D.; Chambers, C. C.; Giesen, D. J.; Winget, P.; Cramer, C. J.; Truhlar, D. G. Minnesota Solvation Database (MNSOL) version 2012. 2020; http://hdl.handle.net/11299/213300.
+
 [4] Pathak, Y.; Mehta, S.; Priyakumar, U. D. Learning Atomic Interactions through Solvation Free Energy Prediction Using Graph Neural Networks. Journal of Chemical Information and Modeling 2021, 61, 689–698
