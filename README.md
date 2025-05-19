@@ -6,7 +6,7 @@ For a complete list of our publications, please visit the [Dr. Suman Chakrabarty
 
 ## Included Projects
 
-* **[Challenges in Transferable Prediction of Solvation Free Energy: A Comparative Analysis of Molecular Representations and Machine Learning Methods](fusion_tcv)**
+* **[Challenges in Transferable Prediction of Solvation Free Energy: A Comparative Analysis of Molecular Representations and Machine Learning Methods](Solvation_Energy_Prediction)**
   *Submitted*
   
 
