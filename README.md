@@ -2,7 +2,7 @@
 
 This repository contains code and implementations related to selected publications from the **[teamsuman](www.teamsuman.org) group**. These materials are provided to support reproducibility and further research.
 
-For a complete list of our publications, please visit [Dr. Suman Chakrabarty google scholar page](https://scholar.google.co.in/citations?hl=en&user=dcj-bnsAAAAJ&view_op=list_works&sortby=pubdate).
+For a complete list of our publications, please visit [Dr. Suman Chakrabarty's google scholar page](https://scholar.google.co.in/citations?hl=en&user=dcj-bnsAAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Included Projects
 
