@@ -9,6 +9,7 @@ For a complete list of our publications, please visit [Dr. Suman Chakrabarty's g
 * **[Challenges in Transferable Prediction of Solvation Free Energy: A Comparative Analysis of Molecular Representations and Machine Learning Methods](Solvation_Energy_Prediction)**
   *Submitted*
   
-
+* **[Challenges in Transferable Prediction of Solvation Free Energy: A Comparative Analysis of Molecular Representations and Machine Learning Methods](protein-folding-conformational-landscape)**
+doi : https://doi.org/10.1016/j.bpc.2025.107389
 ---
 
