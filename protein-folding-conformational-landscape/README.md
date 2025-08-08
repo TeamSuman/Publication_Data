@@ -1,7 +1,7 @@
 # Mapping Conformational Landscape in Protein Folding
 
 This repository contains code and notebooks used in the study:  
-**"Mapping conformational landscape in protein folding: Benchmarking dimensionality reduction and clustering techniques on the Trp-Cage mini-protein"**
+[**"Mapping conformational landscape in protein folding: Benchmarking dimensionality reduction and clustering techniques on the Trp-Cage mini-protein"**](https://doi.org/10.1016/j.bpc.2025.107389)
 
 ## Overview
 
