@@ -363,7 +363,7 @@ if __name__ == "__main__":
         "source_bin_indices": np.array([[0], [1], [2], [3]]),
         "temperature": 300.0,
         'enable_cleaning': True,
-        'clean_threshold': 100.0,
+        'clean_threshold': 10.0,
         "bin_edges": bin_edges,
         "protein_idx": protein_ca_indices,
         "ligand_idx": ligand_indices,
