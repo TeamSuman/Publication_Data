@@ -196,7 +196,7 @@ if __name__ == '__main__':
         'temperature': 298.0,
         'bin_edges' :bin_edges,
         'enable_cleaning': True,
-        'clean_threshold': 75.0,
+        'clean_threshold': 7.50,
         'protein_idx' : protein_ca_indices,
         'ligand_idx' : ligand_indices,
         #'bin_edges': bin_edges,
