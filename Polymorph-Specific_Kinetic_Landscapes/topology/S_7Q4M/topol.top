@@ -1,0 +1,60 @@
+;
+;	File 'topol.top' was generated
+;	By user: sayari (1000)
+;	On host: arch
+;	At date: Tue Jun 24 16:54:44 2025
+;
+;	This is a standalone topology file
+;
+;	Created by:
+;	              :-) GROMACS - gmx pdb2gmx, 2024.4-plumed_2.9.2 (-:
+;	
+;	Executable:   /home/sayari/Soft/gmx22_plumed/bin/gmx
+;	Data prefix:  /home/sayari/Soft/gmx22_plumed
+;	Working dir:  /home/sayari/Sayari/IDP/Abeta_42_new/S-shaped/SMD_7Q4M_Amber-ILDN_TIP3P
+;	Command line:
+;	  gmx pdb2gmx -f Capped_Tetramer.pdb -o Tetramer.gro -ignh -ter
+;	Force field was read from the standard GROMACS share directory.
+;
+
+; Include forcefield parameters
+#include "amber99sb-ildn.ff/forcefield.itp"
+
+; Include chain topologies
+#include "topol_Protein_chain_A.itp"
+#ifdef POSRES_A
+#include "posre_Protein_chain_A.itp"
+#endif
+#include "topol_Protein_chain_C.itp"
+#ifdef POSRES_C
+#include "posre_Protein_chain_C.itp"
+#endif
+#include "topol_Protein_chain_E.itp"
+#include "topol_Protein_chain_G.itp"
+
+; Include water topology
+#include "amber99sb-ildn.ff/tip3p.itp"
+
+#ifdef POSRES_WATER
+; Position restraint for each water oxygen
+[ position_restraints ]
+;  i funct       fcx        fcy        fcz
+   1    1       1000       1000       1000
+#endif
+
+; Include topology for ions
+#include "amber99sb-ildn.ff/ions.itp"
+
+[ system ]
+; Name
+Protein in water
+
+[ molecules ]
+; Compound        #mols
+Protein_chain_A     1
+Protein_chain_C     1
+Protein_chain_E     1
+Protein_chain_G     1
+SOL         12160
+NA               40
+CL               36
