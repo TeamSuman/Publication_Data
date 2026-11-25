@@ -1,7 +1,5 @@
 ;
 ;	File 'topol_Protein_chain_G.itp' was generated
-;	By user: sayari (1000)
-;	On host: arch
 ;	At date: Tue Jun 24 16:54:44 2025
 ;
 ;	This is a include topology file
@@ -9,9 +7,6 @@
 ;	Created by:
 ;	              :-) GROMACS - gmx pdb2gmx, 2024.4-plumed_2.9.2 (-:
 ;	
-;	Executable:   /home/sayari/Soft/gmx22_plumed/bin/gmx
-;	Data prefix:  /home/sayari/Soft/gmx22_plumed
-;	Working dir:  /home/sayari/Sayari/IDP/Abeta_42_new/S-shaped/SMD_7Q4M_Amber-ILDN_TIP3P
 ;	Command line:
 ;	  gmx pdb2gmx -f Capped_Tetramer.pdb -o Tetramer.gro -ignh -ter
 ;	Force field was read from the standard GROMACS share directory.
