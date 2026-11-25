@@ -1,13 +1,5 @@
 """Compute PathGennie projection CVs (Q_fibril vs all-contact) for the merged
 binding and unbinding ensembles of both fibril-tip systems.
-
-CV definitions are taken verbatim from Path_gennie_analysis.ipynb
-(projection_qfibril / projection_qfibril_Bind), with the Q_fibril double loop
-vectorized.  The Q_fibril reference is the npt.gro fully-incorporated structure,
-as in projection_qfibril_Bind; for the unbinding paths frame 0 is that same
-structure, so this is consistent across both ensembles.
-
-Output columns per frame: [min_dist_nm, native_contact, all_contact, q_fibril]
 """
 import os, sys, time, warnings
 import numpy as np
